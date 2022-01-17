@@ -3,3 +3,4 @@ class UsersController < ApplicationController
     render plain: 'Hello, World!'
   end
 end
+
